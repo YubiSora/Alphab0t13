@@ -1,7 +1,7 @@
 {
-  "name": "Alphabot",
+  "name": "OrcaBot",
   "version": "0.13.0",
-  "description": "WhatsApp bot",
+  "description": "i do the same thing i told you that i never would",
   "zeeone": "zeeone.js",
   "directories": {
     "lib": "lib"
@@ -50,7 +50,7 @@
   "keywords": [
     "botwea"
   ],
-  "author": "ZEEONE",
+  "author": "Orcinus",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zeeoneofc"

@@ -1,2 +1,3 @@
-worker : npm i ffmpeg &&  npm i @adiwajshing/baileys@latest && npm start
-worker1 : npm start
+worker: node .
+worker1: npm start
+worker2: node index.js

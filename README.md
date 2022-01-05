@@ -24,7 +24,7 @@
 {
     "self_mode": false,
 	"autobio": false,
-	"antihidetag": true,
+	"antihidetag": false,
 	"user_register": false,
 	"anti_delete" : false,
 	"anticall": false,
@@ -32,16 +32,17 @@
 	"auto_leave_msg": true,
 	"prefix": ".",
 	"language":"ind",
-	"ownerNumber": "62887435047326",
-	"ownerNumberr": "62887435047326",
-	"cr": "@ZeeoneOfcོ",
-	"ownername": "ZeeoneOfcོ",
-	"botname":"ALPHABOT",
+	"ownerNumber": "6289674545497",
+	"ownerNumberr": "62895613027623",
+	"cr": "@OrcaBot",
+	"ownername": "Orcinus",
+	"botname":"OrcaBot",
 	"thumb":"thumbnail_1.jpg",
 	"thumbnail":"thumbnail_2.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
-	"fake": " 「  ALPHABOT  」\nCreated By @ZeeoneOfcོ"
+	"fake": " 「  ORCABOT  」\nCreated By @OrcaBot"
 }
+
 ```
 
 ## `CHANGE DYNO`
@@ -63,22 +64,3 @@ Off in web nya
 <p align="center">
   <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
 </p>
-
-
-## ```COFFEE```
-
-- [`SAWERIA`](https://saweria.co/zeeoneofc)
-
-## ```GROUP SUPPORT```
-
-- [`Alphabot 1`](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [`Alphabot 2`](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
-- [`Alphabot 3`](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
-
-## `THANKS TO`
-
-- Allah SWT.
-- My parents
-- All Friends
-- All Contributors
-- All Creator Bot

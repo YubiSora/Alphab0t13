@@ -5005,7 +5005,7 @@ if (args.length < 1) return reply(`Example:\n${prefix}autoread gc on`)
 if (args[0] === "gc") {
 if (args.length < 2) return reply(`Example:\n${prefix}autoread gc on`)
 if (args[1] === "on") {
-if (readGc === true) return reply(lang.anjawaUdhOn(command))
+if (readGc === false) return reply(lang.anjawaUdhOn(command))
 readGc = false
 reply(`Succes mengaktifkan autoread group`)
 } else if (args[1] === "off") {
@@ -5018,8 +5018,8 @@ reply(`Pilih on atau off`)
 } else if (args[0] === "pc") {
 if (args.length < 2) return reply(`Example:\n${prefix}autoread pc on`)
 if (args[1] === "on") {
-if (readPc === true) return reply(lang.anjawaUdhOn(command))
-readPc = true
+if (readPc === false) return reply(lang.anjawaUdhOn(command))
+readPc = false
 reply(`Succes mengaktifkan autoread pc`)
 } else if (args[1] === "off") {
 if (readPc === false) return

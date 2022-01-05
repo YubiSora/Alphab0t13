@@ -5006,7 +5006,7 @@ if (args[0] === "gc") {
 if (args.length < 2) return reply(`Example:\n${prefix}autoread gc on`)
 if (args[1] === "on") {
 if (readGc === false) return reply(lang.anjawaUdhOn(command))
-readGc = false
+readGc = true
 reply(`Succes mengaktifkan autoread group`)
 } else if (args[1] === "off") {
 if (readGc === false) return
